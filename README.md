@@ -1,6 +1,6 @@
 # Contracts & Clause Manager
 
-A comprehensive legal document management application for organizing contracts, extracting and categorizing clauses, and tracking deal pipelines.
+A comprehensive legal document management application for extracting and categorizing clauses and organizing contracts. 
 
 ## Overview
 
@@ -184,35 +184,6 @@ When viewing a clause's source document, the system automatically highlights the
    - Displays clause metadata in panel header
 
 ---
-
-## Deal Pipeline
-
-Track sales and procurement deals through negotiation stages.
-
-### Features
-
-**Deal Information**
-- Deal ID and Account ID
-- Deal Type (Customer/Vendor)
-- Scope of work/services
-- Account name
-- Assigned representative
-- Estimated total value
-- Current pipeline stage
-
-**Pipeline Stages**
-- Lead
-- Qualified
-- Proposal
-- Negotiation
-- Closed Won
-- Closed Lost
-
-**Deal Organization**
-- Search deals by any field
-- Sort by any column
-- Create named deal lists
-- Multi-select for bulk operations
 
 ---
 
